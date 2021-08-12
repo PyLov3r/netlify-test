@@ -8,7 +8,7 @@ function Home(){
         </head>
         <body>
         <div style={{height:500, background:"blue", display:'flex', alignItems:"center", justifyContent:'center'}}>
-            <h1 style={{background:"blue",color:'white'}}>Bienvenido al sitio.</h1>
+            <h1 style={{background:"blue",color:'white'}}>Bienvenid@ al sitio.</h1>
         </div>
         <div style={{height:500, width:'50%', justifyContent:'center',margin:'auto'}}>
             <h1 style={{padding:'50px'}}>What is Lorem Ipsum?</h1>
